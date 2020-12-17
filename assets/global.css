@@ -1,0 +1,78 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	width: 80vw;
+	margin: auto;
+}
+
+.grey {
+	height: 150px;
+	width: 15%;
+	background-color: rgb(197, 215, 219);
+	float: left;
+
+	margin: 1%;
+}
+
+.blue {
+	height: 150px;
+	width: 20%;
+	background-color: rgb(130, 218, 237);
+	float: left;
+
+	margin: 1%;	
+}
+
+.darkblue {
+	height: 150px;
+	width: 23%;
+	background-color: rgb(0, 113, 138);
+	float: left;
+
+	margin: 1%;
+}
+
+.one {
+	height: 200px;
+	width: 23%;
+	background-color: rgb(201, 197, 232);
+	float: left;
+
+	margin: 1%;
+}
+
+.two {
+	height: 170px;
+	width: 23%;
+	background-color: rgb(201, 197, 232);
+	float: left;
+
+	margin-top: 40px;	
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+.three {
+	height: 140px;
+	width: 23%;
+	background-color: rgb(201, 197, 232);
+	float: left;
+
+	margin-top: 70px;	
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+.four {
+	height: 110px;
+	width: 23%;
+	background-color: rgb(201, 197, 232);
+	float: left;
+
+	margin-top: 100px;
+	margin-right: 1%;
+	margin-left: 1%;
+}
